@@ -2,7 +2,7 @@ body {
     font-family: Helvetica;
 }
 
-h1 {
+.hero h1 {
     background-image: url(../images/pattern.jpeg);
     font-size: 100px;
     font-weight: bold;
@@ -10,21 +10,21 @@ h1 {
     text-align: center;
 }
 
-h2 {
+.product h2 {
     font-size: 32px;
     font-weight: bold;
     color: white;
 }
 
-#brush {
+.product #brush {
     background-color: mediumspringgreen;
 }
 
-#frame {
+.product #frame {
     background-color: lightcoral;
 }
 
-#paint {
+.product #paint {
     background-color: skyblue;
 }
 
